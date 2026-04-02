@@ -1,0 +1,14 @@
+{
+  "name": "Arsh Store",
+  "identifier": "com.arsh.store",
+  "apps": [
+    {
+      "name": "Remini Ultimate",
+      "bundleIdentifier": "com.remini.app",
+      "version": "1.0",
+      "downloadURL": "https://github.com/theluvar5a-boop/ArshStore/releases/download/v1/Remini.Ultimate.tg@IAppsBest.ipa",
+      "icon": "https://img.icons8.com/color/512/remini.png",
+      "description": "باشترین ئەپ بۆ چاککردنی کوالێتی وێنە"
+    }
+  ]
+}
